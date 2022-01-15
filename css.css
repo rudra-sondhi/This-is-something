@@ -24,7 +24,7 @@ header {
 }
 
 .background{
-    background-image: url("stars.jpg");
+    background-image: url("../Final CS/stars.jpg");
     height: 100%;
 
   /* Center and scale the image nicely */
